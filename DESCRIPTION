@@ -1,0 +1,11 @@
+Package: shinymvp
+Type: Package
+Title: Create (quicker) basic Shiny apps.
+Version: 0.1.0
+Author: Federico Scenna
+Maintainer: Federico Scenna <federico.scenna@gmail.com>
+Description: A collection of functions that allow the user to create very basic Shiny apps quicker than starting from scratch.
+License: use_gpl_license()
+Encoding: UTF-8
+LazyData: true
+Imports: shiny, shinydashboard
